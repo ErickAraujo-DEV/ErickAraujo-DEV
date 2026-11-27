@@ -25,7 +25,7 @@ Profissional de TI em transição/atuação focada em **Automação com Python, 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
 </p>
 
-*(Também atuo com Windows, Excel avançado para análise de dados, suporte técnico N1/N2 e fundamentos de cibersegurança/QA.)*
+*(Também atuo com Windows, Excel para análise de dados, suporte técnico N1/N2 e fundamentos de cibersegurança/QA.)*
 
 ---
 
